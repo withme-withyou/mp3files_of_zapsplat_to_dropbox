@@ -1,0 +1,13 @@
+{
+    "json_file_path": "sfx-names.json",
+    "dropbox_base_path": "/SFX 3", 
+    "access_token": "sl.B-GyyGdHiWTkHXowde_lXRY6XPQqtDmQwfpqLY6brmJETtmW1HGjJbMPGE-Qm97VMkP6-zVOEQOklp3-w4wc3oy0f7BENhVHOCwsT3GdpW9Lyn2BHH8Whk1lMi3LlicJkYGTs-dcwsy49wG3QPG7",
+    "zapsplat_username": "Sourav2024",
+    "zapsplat_password": "Sourav2024",
+    "log_folder": "log folder",
+    "log_file_path": "1_log.txt",
+    "should_download_list": "2_should_download_list.csv",
+    "download_failed_log": "3_download_failed_log.csv",
+    "uploading_success_log": "4_uploading_success_log.csv",
+    "uploading_failed_log": "5_uploading_failed_log.csv"
+}
